@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace projekt1
 {
     internal class NewClass
-    {
+    { // minjam nesto
     }
 }
